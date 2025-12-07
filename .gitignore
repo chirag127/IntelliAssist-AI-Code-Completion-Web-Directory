@@ -1,0 +1,39 @@
+# Dependency Directories
+node_modules/
+venv/
+.venv/
+.pytest_cache/
+
+# Build Artifacts & Compiled Files
+dist/
+build/
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE & Editor Specific Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Runtime Data
+*.log
+*.tmp
+.DS_Store
+.env
+
+# Testing and Coverage Reports
+coverage/
+.coverage
+
+# Static Assets & Compiled HTML/CSS/JS (If using a build step, otherwise this might be minimal)
+/dist
+/build
+
+# Editor Specific Cache
+.cache/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db

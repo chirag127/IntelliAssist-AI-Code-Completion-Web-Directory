@@ -1,0 +1,12 @@
+- name: Build Status
+  shield: https://github.com/chirag127/IntelliAssist-AI-Code-Completion-Web-Directory/actions/workflows/ci.yml/badge.svg
+  url: https://github.com/chirag127/IntelliAssist-AI-Code-Completion-Web-Directory/actions/workflows/ci.yml
+- name: Coverage
+  shield: https://codecov.io/gh/chirag127/IntelliAssist-AI-Code-Completion-Web-Directory/branch/main/graph/badge.svg
+  url: https://codecov.io/gh/chirag127/IntelliAssist-AI-Code-Completion-Web-Directory
+- name: License
+  shield: https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg?style=flat-square
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+- name: GitHub Stars
+  shield: https://img.shields.io/github/stars/chirag127/IntelliAssist-AI-Code-Completion-Web-Directory?style=flat-square
+  url: https://github.com/chirag127/IntelliAssist-AI-Code-Completion-Web-Directory/stargazers
